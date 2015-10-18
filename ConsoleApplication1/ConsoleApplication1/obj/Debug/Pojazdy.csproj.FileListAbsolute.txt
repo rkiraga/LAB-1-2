@@ -3,3 +3,10 @@ c:\users\radek2\documents\visual studio 2015\Projects\ConsoleApplication1\Consol
 c:\users\radek2\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 c:\users\radek2\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 c:\users\radek2\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\radek2\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Pojazdy.csprojResolveAssemblyReference.cache
+C:\Users\radek_000\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\radek_000\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\radek_000\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\radek_000\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\radek_000\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\radek_000\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\Pojazdy.csprojResolveAssemblyReference.cache

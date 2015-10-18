@@ -9,6 +9,7 @@ namespace ConsoleApplication1
     class Ciezarowka : Pojazd
     {
         public int ladownosc;
+
         public Ciezarowka(string m="Star", int hp=150, int p=0, int l=20)
         {
             model = m;
@@ -28,13 +29,19 @@ namespace ConsoleApplication1
             ladownosc = int.Parse(Console.ReadLine());
 
         }
-        public int cegla()
+
+        override public void wyswietl_dane()
+        {
+            Console.WriteLine(model);
+            Console.WriteLine(moc);
+            Console.WriteLine(przebieg);
+            Console.WriteLine(ladownosc);
+        }
+
+        public int cegla()  //ile 4kg cegiel mozna zaladowac na ciezarowke
         {
             return (ladownosc * 1000) / 4;
         }
-        double kilowaty()
-        {
-            return 0.735 * moc;
-        }
+
     }
 }

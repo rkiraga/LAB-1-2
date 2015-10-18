@@ -8,6 +8,6 @@ namespace ConsoleApplication1
 {
     public interface Iauta
     {
-        double kilowaty();
+        double kilowaty();  //zamienia konie mechaniczne na kilowaty
     }
 }
